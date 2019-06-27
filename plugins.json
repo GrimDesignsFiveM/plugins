@@ -1,4 +1,15 @@
 {
+    "name": "Rathens Bot",
+    "description": "Rathens Bot is a high quality Music bot, with moderation, interaction, search, administration commands, highly customizable and much more!",
+    "author": "Tyler. H#9393",
+    "authors": [
+        "Tyler. H#9393 ",
+        "Rathens3133#"
+    ],
+    "repository": "GrimDesignsFiveM/Rathens-Bot",
+    "source": "github"
+},
+{
   "data": [
     {
       "name": "Starboard",
